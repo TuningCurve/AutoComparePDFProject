@@ -16,12 +16,12 @@ AutoPDFDiff is a simple tool that outputs the difference between before and afte
 ## Usage
 
 ## Install
-https://github.com/TuningCurve/AutoPDFDiffProject/releases/
+
 
 ## Contribution
 
 ## version
-v0.1　The current version has many problems. Please understand.
+
 
 ## Planned Enhancements
 1. 差分の色をわかりやすく
