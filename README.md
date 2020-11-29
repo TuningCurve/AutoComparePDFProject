@@ -17,7 +17,7 @@ AutoPDFDiff is a simple tool that outputs the difference between before and afte
 ## Usage
 
 ## Install
-
+近日公開
 
 ## Contribution
 
@@ -25,11 +25,9 @@ AutoPDFDiff is a simple tool that outputs the difference between before and afte
 
 
 ## Planned Enhancements
-1. 差分をわかりやすく
-Easy to understand color scheme
+1. 差分をより分かりやすく
 
 2. コンソール非表示化
-Console hide
 
 3. 複数ページの比較に対応
 
