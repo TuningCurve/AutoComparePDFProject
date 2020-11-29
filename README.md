@@ -9,7 +9,7 @@ AutoPDFDiff is a simple tool that outputs the difference between before and afte
 ## Description
 
 ## Demo
-![AutoPDFDiff](https://user-images.githubusercontent.com/74825094/99897393-80302c00-2cdc-11eb-8b7d-e64d90fd6bce.PNG)
+![キャプチャ](https://user-images.githubusercontent.com/74825094/100531124-c4bc4a00-323d-11eb-815b-e9d82e7c7374.PNG)
 
 ## Requirement
 
