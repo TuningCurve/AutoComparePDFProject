@@ -25,16 +25,13 @@ AutoPDFDiff is a simple tool that outputs the difference between before and afte
 
 
 ## Planned Enhancements
-1. 差分の色をわかりやすく
+1. 差分をわかりやすく
 Easy to understand color scheme
 
-2. 差分画像の背景が黒いことの修正
-Correction of the black background of the differential image
-
-3. コンソール非表示化
+2. コンソール非表示化
 Console hide
 
-4. 複数ページの比較に対応
+3. 複数ページの比較に対応
 
 ## Licence
 
