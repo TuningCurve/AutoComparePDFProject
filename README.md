@@ -1,6 +1,6 @@
 AutoPDFDiff
 ====
-[![Maintainability](https://api.codeclimate.com/v1/badges/abca14228210bc6eaf5b/maintainability)](https://codeclimate.com/github/TuningCurve/AutoPDFDiffProject/maintainability)
+
 
 AutoPDFDiffは、修正前と修正後のPDF（またはエクセル）の差分を出力するシンプルなツールです。📑
 
